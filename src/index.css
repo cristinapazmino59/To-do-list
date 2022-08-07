@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+
+:root {
+  --mainColor: #6504b5; /* Primary color */
+  --buttonBackgroundColor: #6504b5;
+  --buttonFontColor: white; 
+  --buttonShadow: 5px 5px 1px  rgba(0,0,0,0.8); 
+  --titleFont: 'Amatic SC'; 
+  --generalFont: 'Comic Neue'; 
+}
+
+body {
+  background-color:rgba(228, 228, 228, 0.99);
+  font-family: var(--generalFont);
+  color: #6504b5;
+}
+
+
